@@ -24,8 +24,6 @@ This project demonstrates basic programming concepts such as loops, conditional 
 
 ---
 
-## ▶️ How to Run the Project
-
 ### 1️⃣ Compile the program
 ```bash
 javac NumberGuessingGame.java
